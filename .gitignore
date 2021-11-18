@@ -1,0 +1,4 @@
+target/
+test_map/
+map_depot/*
+input.txt
