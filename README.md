@@ -1,6 +1,9 @@
 # Micro VSRG
 A rhythm game for Raspberry Pi - specifically the Raspberry Pi 3B+. Imports 4k osu!mania maps (no hold notes). Single player (2 player may be added). I'm done with this project since this was for a school assignment. Any further updates will most likely be done through an outside PR. This game is meant to be played with wheeled robots hitting the notes and sacrifices were made for that. However, it can be easily modified.
 
+# Showcase
+https://user-images.githubusercontent.com/16981283/204935130-90d533c1-e841-42fe-a69b-7510cf3262cf.mp4
+
 # Instructions
 1. Put the osu!mania map sets you want to use in the map_depot folder in the execution directory.
 2. Plug in buttons (B1 to GPIO 4, B2 to GPIO 17, B3 to GPIO 22, and B4 to GPIO 9) - configured in input_pulldown (3.3v to the input pin to trigger).
